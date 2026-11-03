@@ -1,0 +1,1 @@
+// Ce fichier n'est pas nécessaire au fonctionnement du site. Les pages statiques contiennent directement leur en-tête et leur pied de page afin d'être compatibles avec un déploiement Netlify sans build.
